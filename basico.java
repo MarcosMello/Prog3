@@ -79,6 +79,25 @@ public class basico {
         System.out.println(dados[0][0]);
         System.out.println(dados[2][1]);
 
+        String str1 = "Oi";
+        String str2 = "Oi";
+
+        if (str1.equals(str2)){
+            System.out.println("Iguais");
+        }
+        else{
+            System.out.println("Diferentes");
+        }
+
+        if (str1 == str2){ //Melhor não utilizar esse
+            System.out.println("Iguais");
+        }
+        else{
+            System.out.println("Diferentes");
+        }
+
+        /** JAVA DOC - COMENTARIOS PUBLICOS **/
+
         in.close();
     }
 }
