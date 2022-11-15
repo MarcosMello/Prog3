@@ -1,0 +1,33 @@
+tipoPersonagem;nomePersonagem;nivelEnergia;descricaoArma;descricaoGolpe;poderOfensivoGolpe;descricaoArmadura;poderDefesaArmadura;estadoConservacaoArmadura
+Lutador;Fera sem nome 5;100.00
+Lutador;Fera sem nome 17;100.00
+Lutador;Fera sem nome 30;100.00
+Lutador;Fera sem nome 40;100.00
+Lutador;Fera sem nome 45;100.00
+Lutador;Fera sem nome 58;100.00
+Lutador;Fera sem nome 67;100.00
+Gladiador;Gladiador sem nome 71;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 71;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 71;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 71;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 71;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 71;100.00;;;;Armadura de Corpo;0.50;0.50
+Lutador;Fera sem nome 82;100.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque frontal;50.00
+Gladiador;Gladiador sem nome 97;100.00;Escalibur;Ataque Lateral;40.00
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
+Gladiador;Gladiador sem nome 97;100.00;;;;Armadura de Corpo;0.50;0.50
