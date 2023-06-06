@@ -10,16 +10,16 @@ import java.net.http.HttpResponse;
 import java.net.http.HttpResponse.BodyHandlers;
 
 public class Main {
-    public static void main(String[] args) throws java.io.IOException{
+    public static void main(String[] args){
         String base_url = "https://jsonplaceholder.typicode.com";
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(base_url + "/todos"))
+                .uri(URI.create(base_url + "/todos")) // /comments or /users
                 .GET()
                 .build();
 
-        Todos[] allTodos = null;
+        Todos[] allTodos = null; //Comments[] or //Users[]
 
         try{
             HttpResponse<String> response = client
@@ -28,14 +28,14 @@ public class Main {
 
             allTodos = new GsonBuilder()
                     .create()
-                    .fromJson(response_body, Todos[].class);
+                    .fromJson(response_body, Todos[].class); //Comments[] or Users[]
         } catch (IOException | InterruptedException exception) {
             exception.printStackTrace();
 
             System.exit(1);
         }
 
-        for (Todos todo : allTodos) {
+        for (Todos todo : allTodos) { //Comments or Users
             System.out.println(todo);
         }
     }

@@ -30,7 +30,7 @@ public class Todos {
     }
 
     @Override
-    public java.lang.String toString() {
+    public String toString() {
         return "userId: " + getUserId() + "\n" +
                 "id: " + getId() + "\n" +
                 "title: " + getTitle() + "\n" +
